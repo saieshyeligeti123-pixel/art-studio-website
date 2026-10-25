@@ -1,0 +1,6 @@
+{
+  "name": "Art Studio Website",
+  "description": "A premium art studio web application featuring an original paintings gallery, wall-painting mural bookings, custom pottery studio requests, customer dashboard, and admin management suite powered by Node.js Express and SQLite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
